@@ -1,0 +1,32 @@
+/* Reset padrão para remover estilos padrão do navegador */
+body, p, ul, ol, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+/* Definir fontes e cores padrão */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #3B1473;
+}
+
+/* Estilos para links */
+a {
+  text-decoration: none;
+  color: #0077FF;
+}
+
+/* Estilos para botões */
+button {
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
